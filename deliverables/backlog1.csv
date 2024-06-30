@@ -1,0 +1,8 @@
+Issue ID,URL,Title,State,Description,Author,Author Username,Assignee,Assignee Username,Confidential,Locked,Due Date,Created At (UTC),Updated At (UTC),Closed At (UTC),Milestone,Weight,Labels,Time Estimate,Time Spent
+1,https://costa.ls.fi.upm.es/gitlab/170002/sokoban/-/issues/1,This block of commented-out lines of code should be removed.,Open,"//import org.slf4j.Logger;
+This block of commented-out lines of code should be removed.","RARES, CRISTIAN ALEXANDRU",170366,"RARES, CRISTIAN ALEXANDRU",170366,No,No,,2024-05-10 19:16:22,2024-05-10 19:16:22,,,,,0,0
+2,https://costa.ls.fi.upm.es/gitlab/170002/sokoban/-/issues/2,"Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation",Open,"public static void main(String[] args) {
+
+Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation","RARES, CRISTIAN ALEXANDRU",170366,"RARES, CRISTIAN ALEXANDRU",170366,No,No,,2024-05-10 19:17:34,2024-05-10 19:17:34,,,,,0,0
+3,https://costa.ls.fi.upm.es/gitlab/170002/sokoban/-/issues/3,This block of commented-out lines of code should be removed.,Open,"	//private static char wallSymbol = '+';
+This block of commented-out lines of code should be removed.","RARES, CRISTIAN ALEXANDRU",170366,"RARES, CRISTIAN ALEXANDRU",170366,No,No,,2024-05-10 19:18:16,2024-05-10 19:18:16,,,,,0,0
